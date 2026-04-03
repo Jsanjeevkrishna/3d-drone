@@ -13,11 +13,14 @@
 
 ## 📸 Screenshots
 
-### 🚁 Drone HUD — Crosshair & Health Bar
-![Drone HUD](Screenshots/drone_hud.png)
-
-### 🤖 Enemy Soldiers — AI Patrol & Health Bars
+### 🤖 Enemy AI — Patrol & Combat
 ![Enemy Soldiers](Screenshots/enemy_soldiers.png)
+
+### 🔫 Drone Shooting — Muzzle Flash & Soldier HP Bar  
+![Drone Shooting](Screenshots/drone_shooting.png)
+
+### 🎯 Dummy Targets — Crosshair Targeting System
+![Dummy Targets](Screenshots/dummy_targets.png)
 
 ---
 
